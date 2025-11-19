@@ -1,18 +1,55 @@
-<h1 align="center">Hi 👋, I'm Anna Starenka</h1>
-<h3 align="center">A passionate frontend developer from Kyiv</h3>
+# Hi 👋, I'm Anna Starenka
 
-- 👨‍💻 All of my projects are available at [https://anna-starenka.vercel.app/](https://anna-starenka.vercel.app/)
+**Front-end developer with a passion for creating beautiful and responsive websites**
 
-- 📫 How to reach me **starenka.annaa@gmail.com**
+## 🏆 GitHub Trophies
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1878lADqD43NrbCg5HIlxyuLQJ0ZLYrpj/view?usp=sharing](https://drive.google.com/file/d/1878lADqD43NrbCg5HIlxyuLQJ0ZLYrpj/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anna-starenka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anna-starenka/" height="30" width="40" /></a>
+<!-- ⚠️ Important: Replace 'annastrnk' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=annastrnk&theme=flat&column=7&margin-w=15&margin-h=15" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🔝 Most Used Languages
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annastrnk&show_icons=true&locale=en&layout=compact" alt="annastrnk" /></p>
+<!-- ⚠️ Important: Replace 'annastrnk' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annastrnk&layout=compact&langs_count=10&theme=default"/>
+</div>
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Material UI-ff69b4?style=for-the-badge&logo=material ui&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-ff69b4?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-ff69b4?style=for-the-badge&logo=tailwind&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-ff69b4?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-4169e1?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-4169e1?style=for-the-badge&logo=sqlite&logoColor=white" /> 
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> 
+
+## 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/anna-starenka) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/annastrnk) 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="left">
+
+📧 **Email:** [starenka.annaa@gmail.com](mailto:starenka.annaa@gmail.com)
+
+</div>
+
+---
+⭐️ From [Anna Starenka](https://github.com/annastrnk)
+
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/annastrnk/count.svg" alt="Visitor Count" />
+</div>
