@@ -2,13 +2,6 @@
 
 **Front-end developer with a passion for creating beautiful and responsive websites**
 
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'annastrnk' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=annastrnk&theme=flat&column=7&margin-w=15&margin-h=15" />
-</p>
-
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'annastrnk' with your actual GitHub username in the URL below -->
@@ -46,10 +39,3 @@
 
 </div>
 
----
-⭐️ From [Anna Starenka](https://github.com/annastrnk)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/annastrnk/count.svg" alt="Visitor Count" />
-</div>
